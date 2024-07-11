@@ -13,7 +13,7 @@ En esta fase, utilizamos la API de MoviesDataset para obtener información inici
 
 
 **🎞️Fase 2:** Detalles de Películas con Selenium
-Expandimos nuestro análisis utilizando Selenium para obtener información detallada de sitios web de reseñas como  ## Enlaces útiles - [IMBD](https://www.imdb.com/) - [Rotten Tomatoes](https://www.rottentomatoes.com/). Recopilamos datos como puntuaciones, directores, guionistas, argumentos y duración de cada película.
+Expandimos nuestro análisis utilizando Selenium para obtener información detallada de sitios web de reseñas como - [IMBD](https://www.imdb.com/) - [Rotten Tomatoes](https://www.rottentomatoes.com/). Recopilamos datos como puntuaciones, directores, guionistas, argumentos y duración de cada película.
 
 
 **🎭Fase 3:** Detalles de Actores con Selenium
