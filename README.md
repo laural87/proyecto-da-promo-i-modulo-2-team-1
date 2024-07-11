@@ -40,3 +40,15 @@ Utilizamos consultas SQL para responder preguntas específicas sobre las pelícu
 **Consolidación de Conocimientos:** Aplicamos Python y SQL para consolidar conocimientos en análisis de datos y gestión de bases de datos.
 **Colaboración en Equipo:** Utilizamos Scrum para la gestión del proyecto, promoviendo la comunicación efectiva y la mejora continua.
 ### ¡Gracias por unirte a nosotros en este emocionante viaje por el mundo del cine y los datos! 🍿✨
+
+
+## Autoras
+
+** Carolina Palomero - palomero.carolina@gmail.com - [GITHUB](https://github.com/palomerocarolina)
+
+** Laura López - laura.lpzvgs@gmail.com - [GITHUB](https://github.com/laural87)
+
+** Maíra Pitelli - mairapitelli@hotmail.com - [GITHUB](https://github.com/MaPitelli)
+
+** Yamille Andrés - yamiaclavo@gmail.com - [GITHUB](https://github.com/YamilleAClavo)
+
