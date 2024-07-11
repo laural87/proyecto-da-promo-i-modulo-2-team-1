@@ -1,0 +1,1044 @@
+,0
+0,"No hay tomatometer para la peli Lamhaa: The Untold Story of Kashmir con id_imdb tt1309561, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+1,"No hay tomatometer para la peli The Potential Inside con id_imdb tt1315963, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+2,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-3.bdjVSf > div.sc-1f50b7c-0.PUxFE > ul > li:nth-child(2)""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+3,"No hay tomatometer para la peli Sanada kunoichi ninpo-den kasumi shojo hi Densetsu con id_imdb tt13183950, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+4,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-3.bdjVSf > div.sc-3a4309f8-0.bjXIAP.sc-1f50b7c-1.bfrqUc > div > div:nth-child(1) > a > span > div > div.sc-eb51e184-0.kFvAju > div.sc-eb51e184-2.czkfBq > span.sc-eb51e184-1.cxhhrI""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+5,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > div.sc-1f50b7c-3.ZYFjc > div > ul > li:nth-child(1) > div > ul > li > a""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+6,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > div.sc-1f50b7c-3.ZYFjc > div > ul > li:nth-child(2) > div > ul""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+7,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > p > span.sc-2d37a7c7-2.PeLXr""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+8,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > div.ipc-chip-list--baseAlt.ipc-chip-list.ipc-chip-list--nowrap.sc-2d37a7c7-4.kEPwNU > div.ipc-chip-list__scroller > a""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+9,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-3.bdjVSf > div.sc-1f50b7c-0.PUxFE > ul > li:nth-child(2)""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+10,"No hay tomatometer para la peli El Aeropuerto con id_imdb tt13190330, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+11,"No hay tomatometer para la peli Los mercenarios con id_imdb tt1320253, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+12,"No hay tomatometer para la peli La hora cero con id_imdb tt1322302, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+13,"No hay tomatometer para la peli Venus & Vegas con id_imdb tt0423474, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+14,"No hay tomatometer para la peli La cena con id_imdb tt0427152, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+15,"No hay tomatometer para la peli Toy Story 3 con id_imdb tt0435761, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+16,"No hay tomatometer para la peli Diary of a Bad Lad con id_imdb tt0449005, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+17,"No hay tomatometer para la peli El hada buena - Una fábula peronista con id_imdb tt0454155, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+18,"No hay tomatometer para la peli Guns, Drugs and Dirty Money con id_imdb tt0464032, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+19,"No hay tomatometer para la peli Stiffs con id_imdb tt0476023, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+20,"No hay tomatometer para la peli PrimeMates con id_imdb tt0490199, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+21,"No hay tomatometer para la peli En pata de guerra con id_imdb tt0492389, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+22,"No hay tomatometer para la peli Waste of Space con id_imdb tt0765485, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+23,"No hay tomatometer para la peli Rompedientes con id_imdb tt0808510, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+24,"No hay tomatometer para la peli Plumíferos - Aventuras voladoras con id_imdb tt0811021, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+25,"No hay tomatometer para la peli Ni en sueños con id_imdb tt0815236, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+26,"No hay tomatometer para la peli Historias de San Valentín con id_imdb tt0817230, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+27,"No hay tomatometer para la peli Return to Yucca Flats: Desert Man-Beast con id_imdb tt0826532, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+28,"No hay tomatometer para la peli Gangster Exchange con id_imdb tt0846004, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+29,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > div.sc-1f50b7c-3.ZYFjc > div > ul > li:nth-child(1) > div > ul > li > a""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+30,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > div.sc-1f50b7c-3.ZYFjc > div > ul > li:nth-child(2) > div > ul""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+31,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > p > span.sc-2d37a7c7-2.PeLXr""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+32,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-4.gEsAEH > div.sc-491663c0-6.eQRCDK > div.sc-491663c0-10.emoxHI > section > div.ipc-chip-list--baseAlt.ipc-chip-list.ipc-chip-list--nowrap.sc-2d37a7c7-4.kEPwNU > div.ipc-chip-list__scroller > a""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+33,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#__next > main > div > section.ipc-page-background.ipc-page-background--base.sc-c41b9732-0.NeSef > section > div:nth-child(5) > section > section > div.sc-491663c0-3.bdjVSf > div.sc-1f50b7c-0.PUxFE > ul > li:nth-child(2)""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e2b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e63d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e1feec chromedriver + 507628
+6   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+7   chromedriver                        0x000000010319a43c chromedriver + 4154428
+8   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010317fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010319f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+12  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+13  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+14  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+34,"No hay tomatometer para la peli Fauj Mein Mauj con id_imdb tt0847735, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+35,"No hay tomatometer para la peli 2001 Maniacs: Field of Screams con id_imdb tt0858411, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div:nth-child(1) > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+36,"No hay tomatometer para la peli Zenitram con id_imdb tt0861747, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+37,"No hay tomatometer para la peli Encuentros en Nueva York con id_imdb tt0878835, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+38,"No hay tomatometer para la peli AIR: The Musical con id_imdb tt0882741, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+39,"No hay tomatometer para la peli Cartas a Julieta con id_imdb tt0892318, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+40,"No hay tomatometer para la peli Movin' In con id_imdb tt0910926, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+41,"No hay tomatometer para la peli Pizza with Bullets con id_imdb tt0924266, error de tipo: Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""#rso > div.MjjYud > div > div > div.kb0PBd.cvP2Ce.A9Y9g.jGGQ5e > div > div > span > a > h3""}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010495aa80 chromedriver + 4385408
+1   chromedriver                        0x000000010495338c chromedriver + 4354956
+2   chromedriver                        0x0000000104570b0c chromedriver + 281356
+3   chromedriver                        0x00000001045b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001045ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001045a7eec chromedriver + 507628
+6   chromedriver                        0x00000001045a88c4 chromedriver + 510148
+7   chromedriver                        0x000000010492243c chromedriver + 4154428
+8   chromedriver                        0x0000000104926ea0 chromedriver + 4173472
+9   chromedriver                        0x0000000104907ff8 chromedriver + 4046840
+10  chromedriver                        0x000000010492778c chromedriver + 4175756
+11  chromedriver                        0x00000001048fafb8 chromedriver + 3993528
+12  chromedriver                        0x000000010494521c chromedriver + 4297244
+13  chromedriver                        0x0000000104945398 chromedriver + 4297624
+14  chromedriver                        0x0000000104952f84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+42,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd215c chromedriver + 188764
+4   chromedriver                        0x0000000102dd2098 chromedriver + 188568
+5   chromedriver                        0x0000000102e63454 chromedriver + 783444
+6   chromedriver                        0x0000000102e1feec chromedriver + 507628
+7   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+8   chromedriver                        0x000000010319a43c chromedriver + 4154428
+9   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+10  chromedriver                        0x000000010317fff8 chromedriver + 4046840
+11  chromedriver                        0x000000010319f78c chromedriver + 4175756
+12  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+13  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+14  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+15  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+16  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+43,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd215c chromedriver + 188764
+4   chromedriver                        0x0000000102dd2098 chromedriver + 188568
+5   chromedriver                        0x0000000102e63454 chromedriver + 783444
+6   chromedriver                        0x0000000102e1feec chromedriver + 507628
+7   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+8   chromedriver                        0x000000010319a43c chromedriver + 4154428
+9   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+10  chromedriver                        0x000000010317fff8 chromedriver + 4046840
+11  chromedriver                        0x000000010319f78c chromedriver + 4175756
+12  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+13  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+14  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+15  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+16  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+44,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd215c chromedriver + 188764
+4   chromedriver                        0x0000000102dd2098 chromedriver + 188568
+5   chromedriver                        0x0000000102e63454 chromedriver + 783444
+6   chromedriver                        0x0000000102e1feec chromedriver + 507628
+7   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+8   chromedriver                        0x000000010319a43c chromedriver + 4154428
+9   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+10  chromedriver                        0x000000010317fff8 chromedriver + 4046840
+11  chromedriver                        0x000000010319f78c chromedriver + 4175756
+12  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+13  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+14  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+15  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+16  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+45,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd215c chromedriver + 188764
+4   chromedriver                        0x0000000102dd2098 chromedriver + 188568
+5   chromedriver                        0x0000000102e63454 chromedriver + 783444
+6   chromedriver                        0x0000000102e1feec chromedriver + 507628
+7   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+8   chromedriver                        0x000000010319a43c chromedriver + 4154428
+9   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+10  chromedriver                        0x000000010317fff8 chromedriver + 4046840
+11  chromedriver                        0x000000010319f78c chromedriver + 4175756
+12  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+13  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+14  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+15  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+16  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+46,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd215c chromedriver + 188764
+4   chromedriver                        0x0000000102dd2098 chromedriver + 188568
+5   chromedriver                        0x0000000102e63454 chromedriver + 783444
+6   chromedriver                        0x0000000102e1feec chromedriver + 507628
+7   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+8   chromedriver                        0x000000010319a43c chromedriver + 4154428
+9   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+10  chromedriver                        0x000000010317fff8 chromedriver + 4046840
+11  chromedriver                        0x000000010319f78c chromedriver + 4175756
+12  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+13  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+14  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+15  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+16  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+47,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd215c chromedriver + 188764
+4   chromedriver                        0x0000000102dd2098 chromedriver + 188568
+5   chromedriver                        0x0000000102e63454 chromedriver + 783444
+6   chromedriver                        0x0000000102e1feec chromedriver + 507628
+7   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+8   chromedriver                        0x000000010319a43c chromedriver + 4154428
+9   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+10  chromedriver                        0x000000010317fff8 chromedriver + 4046840
+11  chromedriver                        0x000000010319f78c chromedriver + 4175756
+12  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+13  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+14  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+15  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+16  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
+48,"Faltan datos de imdb para la peli: Headhunter: The Assessment Weekend id_imdb: tt0973809, error de tipo: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+0   chromedriver                        0x00000001031d2a80 chromedriver + 4385408
+1   chromedriver                        0x00000001031cb38c chromedriver + 4354956
+2   chromedriver                        0x0000000102de8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd215c chromedriver + 188764
+4   chromedriver                        0x0000000102dd2098 chromedriver + 188568
+5   chromedriver                        0x0000000102e63454 chromedriver + 783444
+6   chromedriver                        0x0000000102e1feec chromedriver + 507628
+7   chromedriver                        0x0000000102e208c4 chromedriver + 510148
+8   chromedriver                        0x000000010319a43c chromedriver + 4154428
+9   chromedriver                        0x000000010319eea0 chromedriver + 4173472
+10  chromedriver                        0x000000010317fff8 chromedriver + 4046840
+11  chromedriver                        0x000000010319f78c chromedriver + 4175756
+12  chromedriver                        0x0000000103172fb8 chromedriver + 3993528
+13  chromedriver                        0x00000001031bd21c chromedriver + 4297244
+14  chromedriver                        0x00000001031bd398 chromedriver + 4297624
+15  chromedriver                        0x00000001031caf84 chromedriver + 4353924
+16  libsystem_pthread.dylib             0x0000000193d12f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000193d0dd34 thread_start + 8
+."
